@@ -17,7 +17,7 @@ const translations = {
     nav_companies:   'Companies',
     nav_services:    'Services',
     nav_facilities:  'Facilities',
-    nav_strengths:   'Strengths',
+    nav_strengths:   'Strategy',
     nav_summary:     'Summary',
 
     // Hero
@@ -42,26 +42,26 @@ const translations = {
     history_tag:     'Our Journey',
     history_title:   'A History of Growth & Innovation',
     history_desc:    "From a small recycling operation to Israel's most recognised environmental industry group.",
-    tl1_title: 'TMM — The Beginning',
-    tl1_text:  'TMM Integrated Recycling Industries is established, engaged in waste collection, recycling and disposal. A new chapter for Israeli environmental management begins.',
-    tl2_title: 'Y.R.A.V — National Leader',
+    tl1_title: 'Alon Metal — The Beginning',
+    tl1_text:  'Founded in the early 1970s, the company became a leading manufacturer of waste containers, vehicles and a wide range of products — marking a new chapter in Israeli environmental management.',
+    tl2_title: 'Y.R.A.V — Environmental Industries',
     tl2_text:  'Y.R.A.V becomes the largest waste collection company in Israel, listed on the Israeli Stock Exchange with 12 transfer stations, 1,000 workers and 300 trucks.',
     tl3_title: 'Acquired by Veolia',
     tl3_text:  "Y.R.A.V is sold to Veolia (VIOLA), reflecting the company's scale and strategic value in the Israeli waste management market.",
-    tl4_title: 'KMM — New Chapter',
-    tl4_text:  'Operations relocate to central Israel and the company is rebranded as KMM, continuing to innovate in recycling and waste treatment across the country.',
+    tl4_title: 'KMM — Recycling Plants',
+    tl4_text:  'Collection and preparation for recycling of many raw materials — including paper, cardboard, plastic and more. Operates 4 processing plants across the country.',
     tl5_title: 'Acquisition of Tal-El',
     tl5_text:  'KMM acquires "Tal-El," expanding its processing capacity and adding key infrastructure in the Nitzanei Oz industrial park.',
-    tl6_title: 'Logan Investment',
-    tl6_text:  'Logan acquires 75% of the company, bringing fresh capital and strategic direction to accelerate growth across recycling verticals.',
-    tl7_title: 'Tamir Partnership & KMM Exit',
+    tl6_title: 'Tire Recycling',
+    tl6_text:  'The T.M.Z. plant is established in Beersheba, processing and shredding end-of-life tires for a wide range of secondary uses.',
+    tl7_title: 'Establishment of Tamir Plant',
     tl7_text:  'An agreement is signed to establish a new packaging sorting plant with Tamir Recycling Corporation. KMM is sold to Generation Capital, serving 550 workers, 150 trucks, and 90 municipalities.',
     tl8_title: 'Cycle — Circular Economy',
-    tl8_text:  "Collection operations begin for Cycle, Israel's largest deposit bottle collection company, partnered with Coca-Cola, operating from thousands of collection points nationwide.",
+    tl8_text:  "Collection operations begin for Cycle, Israel's largest deposit bottle collection company — collecting from thousands of points nationwide, placing return machines in supermarkets and parks across the country, and enabling implementation of the deposit law.",
 
     // Companies
-    companies_tag:   'Our Companies',
-    companies_title: 'The Kortov Portfolio',
+    companies_tag:   'Companies We Founded',
+    companies_title: 'The Kortov Family Portfolio',
     companies_desc:  'A family of companies spanning the full recycling and waste management value chain.',
     kmm_alt:   'KMM Recycling Industries',
     kmm_name:  'KMM Recycling Industries',
@@ -71,7 +71,7 @@ const translations = {
     kmm_f3:    '150 trucks',
     kmm_f4:    '90+ municipalities',
     cycle_name: 'Cycle Circular Economy',
-    cycle_desc: "Israel's largest deposit bottle collection company — partnered with Coca-Cola, building two state-of-the-art counting and sorting plants.",
+    cycle_desc: "Israel's largest deposit bottle collection company — building two state-of-the-art counting and sorting plants.",
     cycle_f1:   'Partnered with Coca-Cola',
     cycle_f2:   'Thousands of collection points',
     cycle_f3:   '100 workers',
@@ -82,7 +82,7 @@ const translations = {
     talel_f2:   'Paper & cardboard processing',
     talel_f3:   'Plastic recycling',
     talel_f4:   'Nitzanei Oz industrial park',
-    tamir_name: 'Tamir Partnership',
+    tamir_name: 'Partnership with Tamir Corporation',
     tamir_desc: 'A joint venture with Tamir Recycling Corporation establishing a new packaging sorting plant, expanding dry waste processing capacity across Israel.',
     tamir_f1:   'Packaging waste management',
     tamir_f2:   'National sorting capacity',
@@ -90,7 +90,7 @@ const translations = {
     tamir_f4:   'Joint venture model',
 
     // Services
-    services_tag:   'What We Do',
+    services_tag:   'Fields We Have Built Over the Years',
     services_title: 'The Israeli Leader in Recycling,\nWaste Treatment & Environmental Projects',
     services_desc:  'A comprehensive portfolio of services spanning every category of dry waste management.',
     svc1_title: 'Paper Recycling & Information Security',
@@ -113,8 +113,8 @@ const translations = {
     svc9_text:  'Nationwide textile collection programs serving residential communities and corporate clients.',
 
     // Facilities
-    fac_tag:   'Our Infrastructure',
-    fac_title: 'State-of-the-Art Facilities',
+    fac_tag:   'Plants We Have Built',
+    fac_title: "Among Israel's Most Advanced Facilities",
     fac_desc:  'Strategic plants across Israel ensure nationwide coverage and processing excellence.',
     fac1_alt:      'Rishon LeZion facility',
     fac1_badge:    'Main HQ',
@@ -149,8 +149,8 @@ const translations = {
     str6_text:  'Personal connections with numerous plants worldwide for the sale of raw materials to end users across the globe.',
 
     // Summary
-    sum_tag:           'Executive Summary',
-    sum_title:         "The Kortov Family — Driving Israel's Recycling Industry",
+    sum_tag:           'The Kortov Family',
+    sum_title:         "Driving Israel's Recycling Industry",
     sum_p1:            'Pioneering R&D of new collection and recycling methods across all material streams',
     sum_p2:            'Continuous follow-up of global developments and changes in the recycling industry',
     sum_p3:            'Personal connections with numerous plants worldwide for the sale of raw materials to end users',
@@ -188,7 +188,7 @@ const translations = {
     nav_companies:   'חברות',
     nav_services:    'שירותים',
     nav_facilities:  'מתקנים',
-    nav_strengths:   'יתרונות',
+    nav_strengths:   'אסטרטגיה',
     nav_summary:     'סיכום',
 
     // Hero
@@ -347,7 +347,7 @@ const translations = {
 
     // Footer
     footer_tagline: 'ממחזרים את עתיד ישראל מאז 1989',
-    footer_copy:    '© 2025 קורטוב הולדינגס בע"מ. כל הזכויות שמורות.',
+    footer_copy:    '© 2025 קורטוב אחזקות בע"מ. .',
   }
 };
 
